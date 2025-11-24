@@ -34,6 +34,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>3.10.0.2594</version>
 			</plugin>
        <plugin>
                <groupId>io.snyk</groupId>
